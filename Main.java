@@ -104,8 +104,7 @@ public class Main extends Application {
     //Get all of the Tasks
     public ObservableList<Task> getTask(){
         ObservableList<Task> Tasks = FXCollections.observableArrayList();
-     //  Tasks.add(new Task());
-        return Tasks;
+           return Tasks;
     }
 
 
